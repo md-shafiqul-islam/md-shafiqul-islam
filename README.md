@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://i.ibb.co/jvk29S0L/cartoon-laptop.jpg" width="150" height="150" />
+  <img src="https://i.ibb.co.com/jvk29S0L/cartoon-laptop.jpg" width="150" height="150" />
 </p>
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
-
 ---
 
-<p align="center items-center">
+<p align="center">
   🚀 Passionate about Full-Stack Web Development <br>
   💻 Exploring modern web technologies <br>
   📚 Preparing for roles in software development <br>
@@ -25,7 +24,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,vite,github,git,figma,c,c++,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,vite,github,git,figma,c,cpp,java" />
 </p>
 
 ---
@@ -38,6 +37,8 @@
 | 🖼️ Auction Gallery | Online auction platform with stylish interface | [Netlify](https://auctions-gallery.netlify.app/) |
 
 <br>
+
+---
 
 ### 📈 GitHub Stats
 
