@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.ibb.co/jvk29S0L/cartoon-laptop.jpg" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/jvk29S0L/cartoon-laptop.jpg" width="150" height="150" />
 </p>
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
 
 ---
 
-<p align="center">
+<p align="center items-center">
   🚀 Passionate about Full-Stack Web Development <br>
   💻 Exploring modern web technologies <br>
   📚 Preparing for roles in software development <br>
@@ -24,16 +24,20 @@
 
 ### 🛠️ Technologies & Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,vite,github,git,figma,c,c++,java" />
+</p>
 
 ---
+
+#### 📂 Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🌐 English Janala | Learn English in a fun and interactive way | [Netlify](https://english-window.netlify.app/) |
+| 🖼️ Auction Gallery | Online auction platform with stylish interface | [Netlify](https://auctions-gallery.netlify.app/) |
+
+<br>
 
 ### 📈 GitHub Stats
 
@@ -48,7 +52,7 @@
 ### 📫 Contact
 
 - 📧 Email: sniekdho@gmail.com
-- 🔗 LinkedIn: (https://www.linkedin.com/in/md-shafiqul-islam-754a19183/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/md-shafiqul-islam-754a19183/
 
 ---
 
