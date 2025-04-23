@@ -3,28 +3,25 @@
 </p>
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
 
-
-<p align="center">
-  🚀 Passionate about Full-Stack Web Development <br>
-  💻 Exploring modern web technologies <br>
-  📚 Preparing for roles in software development <br>
-</p>
-
-
-
-### 🧠 About Me
-
-- 🎓 Completed B.Sc in CSE from Daffodil International University
-- 🔍 Focused on building real-world applications
-- 🛠️ Practicing daily to improve coding skills
-- ⚡ Fun fact: Love watching football and cricket
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&width=435&lines=Full-Stack+Web+Developer;Open-Source+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🧠 About Me
+
+- 🎓 B.Sc in Computer Science & Engineering
+- 🔭 Currently working on MERN stack projects
+- 🌱 Learning TypeScript and Next.js
+- ⚡ Fun fact: Football fanatic ⚽ & cricket lover 🏏
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,vite,github,git,figma,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,express,vite,github,git,figma,c,cpp,java" />
 </p>
 
 ---
@@ -32,31 +29,41 @@
 #### 📂 Featured Projects
 
 | Project | Description | Live Demo |
-|---------|-------------|-----------|
-| 🎓 English Learning Hub | Interactive platform with quizzes, flashcards, and speech practice (React/Node.js) | [Netlify](https://english-window.netlify.app/) |
-| 🏆 BidCraft | Real-time auction system with user dashboards and secure payments (MERN Stack) | [Netlify](https://auctions-gallery.netlify.app/) |
-
-<br>
+|---------|-----------|-----------|
+| 🎓 English Learning Hub | Interactive ESL platform with speech recognition and vocabulary builder | [Demo](https://english-window.netlify.app/) |
+| 🏆 BidCraft | Buy items through live auctions | [Demo](https://auctions-gallery.netlify.app/) |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=sniekdho&show_icons=true&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63&title_color=fff&icon_color=FFD700&custom_title=My%20Development%20Activity)
+  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sniekdho&layout=compact&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63&title_color=fff)
+
+</div>
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sniekdho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shafiqul-islam-754a19183/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sniekdho)
+
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sniekdho&show_icons=true&theme=dracula&hide_border=true&bg_color=45,ff9966,ff5e62&title_color=fff&icon_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats&hide=prs,issues" alt="GitHub stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniekdho&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=sniekdho&label=Profile%20Views&color=0e75b6&style=flat" alt="sniekdho" /> 
+  <a href="https://github.com/sniekdho?tab=followers"><img src="https://img.shields.io/github/followers/sniekdho?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
----
-
-### 📫 Contact
-
-- 📧 Email: sniekdho@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/md-shafiqul-islam-754a19183/
-
----
-
 <p align="center">
-  Thanks for visiting my profile! 😊
+  Thanks for visiting! Let's connect and build something amazing together ✨
 </p>
