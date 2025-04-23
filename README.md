@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sniekdho/sniekdho/main/cartoon-laptop.jpg" width="250" height="250" />
+  <img src="https://raw.githubusercontent.com/sniekdho/sniekdho/main/cartoon-laptop.jpg" width="250" height="250" class="img-circle" />
 </p>
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
 
