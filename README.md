@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,express,vite,github,git,figma,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,firebase,mongodb,vite,github,git,figma,c,cpp,java" />
 </p>
 
 ---
@@ -35,8 +35,9 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| 🎓 English Learning Hub | Interactive ESL platform with speech recognition | [Demo](https://english-window.netlify.app/) |
-| 🏆 BidCraft | Buy items through live auctions | [Demo](https://auctions-gallery.netlify.app/) |
+| 🏛️ Lawyer BD | Trusted Legal Support for individuals & businesses | [Demo](https://bd-lawyer.netlify.app/) |
+| 🎓 English Janala | Interactive ESL platform with speech recognition | [Demo](https://english-window.netlify.app/) |
+| 🏆 Auction Gallery | Buy items through live auctions | [Demo](https://auctions-gallery.netlify.app/) |
 
 </div>
 
