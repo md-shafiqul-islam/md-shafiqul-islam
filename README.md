@@ -26,12 +26,16 @@
 
 ---
 
-#### 📂 Featured Projects
+### 📂 Featured Projects
+
+<div align="center">
 
 | Project | Description | Live Demo |
-|---------|-----------|-----------|
-| 🎓 English Learning Hub | Interactive ESL platform with speech recognition and vocabulary builder | [Demo](https://english-window.netlify.app/) |
+|---------|-------------|-----------|
+| 🎓 English Learning Hub | Interactive ESL platform with speech recognition | [Demo](https://english-window.netlify.app/) |
 | 🏆 BidCraft | Buy items through live auctions | [Demo](https://auctions-gallery.netlify.app/) |
+
+</div>
 
 ---
 
