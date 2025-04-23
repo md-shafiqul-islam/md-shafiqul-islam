@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&width=435&lines=Full-Stack+Web+Developer;Open-Source+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&width=435&lines=Passionate+Web+Developer;Compiling+Dreams+into+Reality;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,8 +12,11 @@
 ### 🧠 About Me
 
 - 🎓 B.Sc in Computer Science & Engineering
-- 🔭 Currently working on MERN stack projects
-- 🌱 Learning TypeScript and Next.js
+- 🚀 Passionate about Full-Stack Web Development
+- 🔍 Focused on building real-world applications
+- 💻 Exploring modern web technologies
+- 📚 Preparing for roles in software development
+- 🛠️ Practicing daily to improve coding skills
 - ⚡ Fun fact: Football fanatic ⚽ & cricket lover 🏏
 
 ---
