@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/jvk29S0L/cartoon-laptop.jpg" width="150" height="150" />
+  <img src="https://raw.githubusercontent.com/sniekdho/sniekdho/main/cartoon-laptop.jpg" width="250" height="250" />
 </p>
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
----
+
 
 <p align="center">
   🚀 Passionate about Full-Stack Web Development <br>
@@ -10,7 +10,7 @@
   📚 Preparing for roles in software development <br>
 </p>
 
----
+
 
 ### 🧠 About Me
 
@@ -29,12 +29,12 @@
 
 ---
 
-#### 📂 Projects
+#### 📂 Featured Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 🌐 English Janala | Learn English in a fun and interactive way | [Netlify](https://english-window.netlify.app/) |
-| 🖼️ Auction Gallery | Online auction platform with stylish interface | [Netlify](https://auctions-gallery.netlify.app/) |
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🎓 English Learning Hub | Interactive platform with quizzes, flashcards, and speech practice (React/Node.js) | [Netlify](https://english-window.netlify.app/) |
+| 🏆 BidCraft | Real-time auction system with user dashboards and secure payments (MERN Stack) | [Netlify](https://auctions-gallery.netlify.app/) |
 
 <br>
 
@@ -43,7 +43,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sniekdho&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sniekdho&show_icons=true&theme=dracula&hide_border=true&bg_color=45,ff9966,ff5e62&title_color=fff&icon_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats&hide=prs,issues" alt="GitHub stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniekdho&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
