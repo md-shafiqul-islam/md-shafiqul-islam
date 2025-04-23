@@ -35,7 +35,7 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| 🏛️ Lawyer BD | Trusted Legal Support for individuals & businesses | [Demo](https://bd-lawyer.netlify.app/) |
+| 🏛️ Lawyer BD | Trusted legal support for individuals & businesses | [Demo](https://bd-lawyer.netlify.app/) |
 | 🎓 English Janala | Interactive ESL platform with speech recognition | [Demo](https://english-window.netlify.app/) |
 | 🏆 Auction Gallery | Buy items through live auctions | [Demo](https://auctions-gallery.netlify.app/) |
 
