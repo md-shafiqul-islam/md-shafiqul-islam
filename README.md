@@ -35,9 +35,9 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| 🏛️ Lawyer BD | Trusted legal support for individuals & businesses | [Demo](https://bd-lawyer.netlify.app/) |
-| 🎓 English Janala | Interactive ESL platform with speech recognition | [Demo](https://english-window.netlify.app/) |
-| 🏆 Auction Gallery | Buy items through live auctions | [Demo](https://auctions-gallery.netlify.app/) |
+| 🎓 EduCare | Service sharing platform for educational services | [Demo](https://educare-9e09b.web.app) |
+| 🍳 CookSy | Recipe management app with CRUD features and auth | [Demo](https://cooksy.netlify.app) |
+| 💸 PayBondhu | Intuitive utility bill payment platform | [Demo](https://paybondhu.netlify.app) |
 
 </div>
 
