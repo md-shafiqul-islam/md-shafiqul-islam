@@ -47,9 +47,9 @@
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=sniekdho&show_icons=true&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63&title_color=fff&icon_color=FFD700&custom_title=My%20Development%20Activity)
-  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sniekdho&layout=compact&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63&title_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=sniekdho&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sniekdho&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sniekdho&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
