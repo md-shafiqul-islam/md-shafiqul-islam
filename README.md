@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sniekdho/sniekdho/main/cartoon-laptop-Photoroom.png" width="300" height="300" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/cartoon-laptop-Photoroom.png" width="300" height="300" />
 </p>
+
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
 
 <div align="center">
@@ -9,14 +10,18 @@
 
 ---
 
+🔗 **Portfolio**: [shafiqul-islam.netlify.app](https://shafiqul-islam.netlify.app)
+
+---
+
 ### 🧠 About Me
 
-- 🎓 B.Sc in Computer Science & Engineering
-- 🚀 Passionate about Full-Stack Web Development
-- 🔍 Focused on building real-world applications
-- 💻 Exploring modern web technologies
-- 📚 Preparing for roles in software development
-- 🛠️ Practicing daily to improve coding skills
+- 🎓 B.Sc in Computer Science & Engineering  
+- 🚀 Passionate about Full-Stack Web Development  
+- 🔍 Focused on building real-world applications  
+- 💻 Exploring modern web technologies  
+- 📚 Preparing for roles in software development  
+- 🛠️ Practicing daily to improve coding skills  
 - ⚡ Fun fact: Football fanatic ⚽ & cricket lover 🏏
 
 ---
@@ -62,8 +67,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=md-shafiqul-islam&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=md-shafiqul-islam&theme=codeSTACKr&hide_border=false)<br/>
@@ -79,15 +82,15 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sniekdho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shafiqul-islam-754a19183/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sniekdho)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-shafiqul-islam)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sniekdho&label=Profile%20Views&color=0e75b6&style=flat" alt="sniekdho" /> 
-  <a href="https://github.com/sniekdho?tab=followers"><img src="https://img.shields.io/github/followers/sniekdho?label=Followers&style=social" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=md-shafiqul-islam&label=Profile%20Views&color=0e75b6&style=flat" alt="md-shafiqul-islam" /> 
+  <a href="https://github.com/md-shafiqul-islam?tab=followers"><img src="https://img.shields.io/github/followers/md-shafiqul-islam?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 <p align="center">
