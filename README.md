@@ -1,7 +1,9 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/LinkedIn%20Banner%203.png" alt="Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/LinkedIn%20Banner%203.png" alt="Professional Web Developer Md. Shafiqul Islam Banner" width="100%" />
 </p>
+
+<br/>
 
 <!-- Profile Image -->
 <p align="center">
@@ -87,11 +89,11 @@
 
 ---
 
-### 📬 Get In Touch
+### 📬 Connect with me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sniekdho@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqul.islam3558@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shafiqul-islam-754a19183/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-shafiqul-islam)
 
