@@ -63,9 +63,11 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=sniekdho&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sniekdho&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sniekdho&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=md-shafiqul-islam&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=md-shafiqul-islam&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shafiqul-islam&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
