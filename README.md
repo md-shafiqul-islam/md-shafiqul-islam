@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/hero-banner.png" alt="Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/LinkedIn Banner 3.png" alt="Hero Banner" width="100%" />
 </p>
 
 <!-- Profile Image -->
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
-<p align="center"><b>🚀 Frontend-Focused Developer | Turning Ideas into Interactive Interfaces</b></p>
+<p align="center"><b>🚀 Turning Ideas into Interactive Interfaces</b></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&width=435&lines=Passionate+Web+Developer;Compiling+Dreams+into+Reality;Continuous+Learner" alt="Typing SVG" />
@@ -21,8 +21,6 @@
 
 <p align="center">
   <a href="https://shafiqul-islam.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=netlify" /></a>
-  <a href="https://drive.google.com/your-resume-link"><img src="https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=google-drive" /></a>
-  <a href="mailto:sniekdho@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -76,21 +74,11 @@
 
 <div align="center">
 
-<a href="https://educare-9e09b.web.app">
-  <img width="400" src="https://raw.githubusercontent.com/md-shafiqul-islam/project-educare/main/cover.png" alt="EduCare" />
-</a>
-
-<br/><br/>
-
-<a href="https://cooksy.netlify.app">
-  <img width="400" src="https://raw.githubusercontent.com/md-shafiqul-islam/project-cooksy/main/cover.png" alt="CookSy" />
-</a>
-
-<br/><br/>
-
-<a href="https://pay-bondhu.netlify.app/">
-  <img width="400" src="https://raw.githubusercontent.com/md-shafiqul-islam/project-paybondhu/main/cover.png" alt="PayBondhu" />
-</a>
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🎓 EduCare | Service sharing platform for educational services | [Demo](https://educare-9e09b.web.app) |
+| 🍳 CookSy | Recipe management app with CRUD features and auth | [Demo](https://cooksy.netlify.app) |
+| 💸 PayBondhu | Intuitive utility bill payment platform | [Demo](https://pay-bondhu.netlify.app/) |
 
 </div>
 
@@ -105,12 +93,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shafiqul-islam&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/md-shafiqul-islam/md-shafiqul-islam/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
