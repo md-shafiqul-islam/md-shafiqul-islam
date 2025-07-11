@@ -5,7 +5,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/cartoon-laptop-Photoroom.png" width="220" height="220" style="border-radius: 50%" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/cartoon-laptop-Photoroom.png" width="220" height="220"/>
 </p>
 
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
