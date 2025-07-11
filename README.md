@@ -1,11 +1,11 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/LinkedIn Banner 3.png" alt="Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/LinkedIn%20Banner%203.png" alt="Hero Banner" width="100%" />
 </p>
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/cartoon-laptop-Photoroom.png" width="300" height="300" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/cartoon-laptop-Photoroom.png" width="220" height="220" style="border-radius: 50%" />
 </p>
 
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🔗 Portfolio & Contact
+### 🔗 Portfolio
 
 <p align="center">
   <a href="https://shafiqul-islam.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=netlify" /></a>
@@ -58,15 +58,6 @@
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
 </p>
-
----
-
-### 💡 Currently Exploring
-
-- 🔭 Working on: [ProFast - Final Project](https://github.com/md-shafiqul-islam/ProFast)
-- ✍️ Learning: Firebase Admin SDK, MongoDB Aggregation
-- 👨‍💻 Building: A professional app to simulate a logistics system
-- 🤝 Looking for: Internship / Junior Frontend Developer roles
 
 ---
 
