@@ -1,14 +1,10 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/LinkedIn%20Banner%203.png" alt="Professional Web Developer Md. Shafiqul Islam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/Banner%203.png" alt="Professional Web Developer Md. Shafiqul Islam Banner" width="100%" />
 </p>
 
 <br/>
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/cartoon-laptop-Photoroom.png" width="220" height="220"/>
-</p>
 
 <h1 align="center">Hi, I'm Md. Shafiqul Islam 👋</h1>
 <p align="center"><b>🚀 Turning Ideas into Interactive Interfaces</b></p>
