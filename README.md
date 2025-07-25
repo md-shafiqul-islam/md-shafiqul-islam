@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/Banner%203.png" alt="Professional Web Developer Md. Shafiqul Islam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/md-shafiqul-islam/md-shafiqul-islam/main/Banner.png" alt="Professional Web Developer Md. Shafiqul Islam Banner" width="100%" />
 </p>
 
 <br/>
