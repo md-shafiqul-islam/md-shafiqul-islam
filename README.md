@@ -54,7 +54,6 @@
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
 </p>
 
 ---
@@ -65,9 +64,9 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
+| 💸 CraftFlow | Employee Management System | [Demo](https://craft-flow.netlify.app/) |
 | 🎓 EduCare | Service sharing platform for educational services | [Demo](https://educare-9e09b.web.app) |
 | 🍳 CookSy | Recipe management app with CRUD features and auth | [Demo](https://cooksy.netlify.app) |
-| 💸 PayBondhu | Intuitive utility bill payment platform | [Demo](https://pay-bondhu.netlify.app/) |
 
 </div>
 
